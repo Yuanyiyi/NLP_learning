@@ -1,0 +1,4 @@
+cnews.train.txt
+cnews.test.txt
+cnews.val.txt
+cnews.vocab.txt
