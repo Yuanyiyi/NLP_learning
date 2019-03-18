@@ -1,0 +1,4 @@
+关于Hierarchical Attention Networks for Document Classiﬁcation这篇文章的代码(来自于其他人，已经忘记了出处了，之前保存的，先在这里向前辈致敬)
+attetion.py 存放的attention部分
+train.py关于整个模型的架构以及运行部分
+utils.py是对于数据的处理
